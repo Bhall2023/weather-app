@@ -92,3 +92,11 @@ footer {
   font-size: 14px;
   color: rgba(0, 0, 0, 0.6);
 }
+
+{
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "semi": true,
+  "arrowParens": "avoid",
+  "quoteProps": "as-needed"
+}
